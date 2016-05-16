@@ -4,7 +4,7 @@ With GUI
 
 It's my first python project and first GUI.
 
-It is using netsh commands to share add virtual wifi adapter and share your wired LAN connection via WiFi. 
+It is using netsh commands to add an wifi adapter and share your wired LAN connection via WiFi. 
 
                           LAN -> Notebook -> WiFi -> Handy/Mobilephone
 
